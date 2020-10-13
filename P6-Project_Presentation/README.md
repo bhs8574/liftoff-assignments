@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+
+[Project Presentation PDF Submission](https://github.com/bhs8574/liftoff-assignments/blob/master/P6-Project_Presentation/Partnered-Demo.pdf)
